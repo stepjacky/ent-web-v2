@@ -21,7 +21,7 @@ import 'ant-design-vue/dist/antd.css'
 Vue.config.productionTip = false
 const pinia = createPinia()
 pinia.use(createPersistedState()) //开启缓存，存储在localstorage
-//https://ty.c04ios.cc/pw/
+//https://v3.a505jwl.cc/pw/
 new Vue({
   pinia,
   render: h => h(App),  
